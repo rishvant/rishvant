@@ -1,4 +1,4 @@
-### Hi , I am Rishvant Singh 👋
+### Hi 👋, I am Rishvant Singh
 
 <!--
 **rishvant/rishvant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
