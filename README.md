@@ -1,5 +1,6 @@
 ### Hi 👋, I am Rishvant Singh
-<div style="color:blue">Hello</div>
+<b>Hello</b>
+
 
 <!--
 **rishvant/rishvant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
