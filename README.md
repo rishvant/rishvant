@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishvantsinghpundir@gmail.com**
 
-- ⚡ Fun fact **I think I don't know anything**
+- ⚡ **Creativity with Code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
