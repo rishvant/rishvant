@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,bootstrap,jquery,nodejs,express,mongodb,react,nextjs,git,github,heroku,redux,vite,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,bootstrap,tailwind,jquery,nodejs,express,mongodb,react,nextjs,git,github,heroku,redux,vite,vercel,)](https://skillicons.dev)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rishvant&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
