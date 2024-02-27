@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=rishvant&icon=5&color=1" alt="rishvant" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishvant&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="rishvant" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=rishvant&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="rishvant" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/RishvantSingh" target="blank"><img src="https://img.shields.io/twitter/follow/RishvantSingh?logo=twitter&style=for-the-badge" alt="RishvantSingh" /></a> </p>
 
