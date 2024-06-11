@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [rishvant.engineer](https://rishvant.engineer)
+- 👨‍💻 All of my projects are available at [rishvant.vercel.app](https://rishvant.vercel.app)
 
 - 💬 Ask me about **Node**
 
